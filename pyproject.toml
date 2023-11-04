@@ -1,0 +1,11 @@
+[tool.poetry]
+name = "python_worker"
+version = "0.1.0"
+description = ""
+authors = ["Erdzan <erdzan@rastoder.lu>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10.11"
+pyusb = "^1.2.1"
+urllib3 = "^2.0.5"
